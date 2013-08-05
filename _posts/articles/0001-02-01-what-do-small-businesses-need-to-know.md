@@ -1,7 +1,7 @@
 ---
-published: "true"
+published: true
 title: "What do small businesses need to know?"
-"meta-title": "What do small business owners need to know about health coverage"
+"meta-title": What do small business owners need to know about health coverage
 "meta-description": Meet your small business health care needs at the Health Insurance Marketplace. Learn what options are available under the new Obamacare health care law
 "title-short": "What do small businesses need to know?"
 bite: Small businesses may get health coverage in the Small Business Health Options Program (SHOP) Marketplace. No employers are required to offer health coverage.
@@ -15,7 +15,7 @@ questions:
 categories: null
 tags: 
   - promote
-"seo-keywords": "Health care law; SHOP; SHOP marketplace"
+"seo-keywords": Health care law; SHOP; SHOP marketplace
 audience: 
   - business
 segment: null
@@ -30,8 +30,9 @@ plan: "Marketplaces>SHOP"
 "process-step": "Awareness / Eligibility>Obtain General Program Information"
 legislation: null
 "other-subject": Employer Shared Responsibility Payment; Employer Responsibility; Tax Credit; Nondiscrimination
-
 ---
+
+Will this work?
 
 Small businesses may get health coverage in the Small Business Health Options Program (SHOP) Marketplace. **No employers are required to offer health coverage.**
 
